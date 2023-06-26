@@ -17,18 +17,8 @@ License
 Introduction
 This project aims to develop a predictive maintenance model that can help identify equipment failures before they occur. By leveraging historical maintenance data and sensor readings, the model can detect patterns and anomalies indicative of potential failures. This proactive approach allows for timely maintenance and reduces unplanned downtime, improving operational efficiency.
 
-Installation
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/your-username/predictive-maintenance.git
-Install the required dependencies:
-Copy code
-pip install -r requirements.txt
-Usage
-Ensure you have the dataset available in the required format.
 
-Run the provided Jupyter notebook or execute the Python scripts to perform the following steps:
+Run the provided Jupyter Notebook or execute the Python scripts to perform the following steps:
 
 Data collection
 Data preprocessing
@@ -62,9 +52,6 @@ Split the preprocessed data into training and testing sets. Train the selected m
 
 Contributing
 Contributions to this project are welcome. Please fork the repository, create a new branch, make your improvements or bug fixes, and submit a pull request.
-
-License
-This project is licensed under the MIT License.
 
 Feel free to customize the README file according to your specific project requirements and provide additional information or instructions as needed.
 
